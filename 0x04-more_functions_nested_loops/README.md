@@ -1,1 +1,1 @@
-This projects writes c programs using functions and nested loops
+Learning Functions and Loops in C

@@ -1,1 +1,1 @@
-This project finds and fixes errors in software
+introduction to debugging
