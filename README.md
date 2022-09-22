@@ -1,1 +1,1 @@
-Contains files that write scripts and programs in C
+This repo contains files that writes programs,functions and scripts in C
